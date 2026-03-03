@@ -26,3 +26,4 @@ Through this project, I’ve learned that SQL is much more than just storing dat
 <img width="787" height="456" alt="Image" src="https://github.com/user-attachments/assets/b7cb3dd0-29a8-45fd-b6b7-0c266c0556ff" />
 <img width="939" height="476" alt="Image" src="https://github.com/user-attachments/assets/902d90ae-29b5-45e1-a5de-356f257e3955" />
 <img width="732" height="470" alt="Image" src="https://github.com/user-attachments/assets/f66fdb7e-26d9-4716-bf62-b448a40ba9f9" />
+<img width="1030" height="468" alt="Image" src="https://github.com/user-attachments/assets/4850e7ba-e4e7-4070-b079-7ea7e321f46a" />
