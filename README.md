@@ -12,7 +12,7 @@ $DOMAIN *: SQL
 
 *MENTOR *: NEELA SANTOSH
 
-*Task 1*: Relational Data Mapping & Joins
+*Task 1*: JOINS-PRACTICE
 
 In a professional environment, data is normalized into separate tables to reduce redundancy and maintain consistency. For the Online Book Store, I managed three core tables: Books, Customers, and Orders.The focus of this task was to master SQL Joins to combine these tables into meaningful reports.
 
